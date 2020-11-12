@@ -56,5 +56,6 @@ Method persistCoins which can be used to initialise the file system with require
 5.	Class CoinReservce a HashMap datastructure implementation to hold changes dispensed and also to hold coins available.
 6.	Class TestLimitedVending to check the code for limited vending machine logic.
 7.	Class TestLimitedVending to check the code for vending machine, with continuous supply of coins.
+
   
 
